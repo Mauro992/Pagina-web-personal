@@ -2,7 +2,9 @@ PROYECTO FINAL: Landing Page de Maquetación web Este repositorio contiene una l
 
 Uso:
 
-Clone el repositorio haciendo git clone https://github.com/Mauro992/proyecto-de-pagina-web-personal Abra el proyecto en su editor de código Haciendo click derecho ejecutar Live Server para abrir el proyecto en el navegador
+Clone el repositorio haciendo git clone https://github.com/Mauro992/Pagina-web-personal 
+Abra el proyecto en su editor de código Haciendo click derecho 
+ejecutar Live Server para abrir el proyecto en el navegador
 
 Requiere:
 
